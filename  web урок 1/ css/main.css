@@ -1,0 +1,17 @@
+h1{
+	color: red;
+}
+
+img{
+	width: 80%;
+	height: auto;
+}
+
+div{
+	margin: 0 100px;
+	background-color: gold;
+	padding: 50px;
+	font-family: Roboto;
+	line-height: 200%;
+}
+

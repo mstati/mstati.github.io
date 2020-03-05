@@ -1,0 +1,29 @@
+h1{
+	color: red;
+}
+
+img{
+	width: 80%;
+	height: auto;
+}
+
+div{
+	margin: 0 100px;
+	background-color: gold;
+	padding: 50px;
+	font-family: Roboto;
+	line-height: 200%;
+}
+
+a{
+	text-decoration: none;
+	color: black;
+	border-bottom: 1px solid transparent;
+	transition: 0.2s ease-in;
+}
+
+a:hover{
+	border-bottom-color: #929aab;
+	color: blue;
+}
+
